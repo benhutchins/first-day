@@ -1,5 +1,2 @@
-# First Day Repository
-
-Hello world.
-
+# Third Week Repository
 
